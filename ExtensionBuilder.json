@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Basis-Ger\u00fcst f\u00fcr die neue TYPO3 Stammtisch Ruhr Website",
+        "emConf": {
+            "category": "templates",
+            "custom_category": "",
+            "dependsOn": "typo3 => 7.6.0-7.6.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "7.6.0-7.6.99",
+            "version": "0.0.1"
+        },
+        "extensionKey": "typo3ruhr",
+        "name": "TYPO3-Ruhr",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "MoSch:::Z Kommunikation \u00c4sthetik",
+                "email": "typo3@moschz.de",
+                "name": "Monika Schwarz",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "MoSchZ"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2017-01-07 01:40",
+        "extension_builder_version": "7.6.0",
+        "be_user": " (1)"
+    }
+}
