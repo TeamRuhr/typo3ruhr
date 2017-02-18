@@ -10,3 +10,10 @@ page {
 		contentObjectExceptionHandler = 1
 	}
 }
+config {
+	prefixLocalAnchors = all
+	simulateStaticDocuments = 0
+	absRefPrefix = /
+	tx_realurl_enable = 1
+	no_cache = 0
+}
