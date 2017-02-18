@@ -1,33 +1,16 @@
 
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-h2, .h2 {
-    background-color: #f7f7f7;
-    font-size: 30px;
-    padding: 7px;
-}
-
 .navbar-brand {
     padding: 0 15px;
 }
 
-.jumbotron {
-    background-color: #f8c970;
-    color: inherit;
-    margin-bottom: 30px;
+.dropdown:hover .dropdown-menu {
+    display: block;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navbar-form {
+	display:none;
+}
