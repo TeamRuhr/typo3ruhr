@@ -25,7 +25,7 @@ lib.mainnav {
             IFSUB < .NO
             IFSUB {
                 wrapItemAndSub = <li class="dropdown">|</li>
-                ATagParams = class="dropdown-toggle" data-toggle="dropdown"
+                ATagParams = class="dropdown-toggle"
                 stdWrap.noTrimWrap = || <span class="caret"></span>|
             }
 
