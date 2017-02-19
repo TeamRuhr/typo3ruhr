@@ -14,3 +14,32 @@
 .navbar-form {
 	display:none;
 }
+
+#headerLogoWrap2 {
+    margin-right: 1em;
+    max-width: 410px;
+}
+
+
+#headerLogoItemImage {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+#headerLogoWrap2 {
+    display: table;
+    height: 50px;
+}
+
+#headerLogoWrap1 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+@media only screen and (max-width: 992px) {
+    #headerLogoWrap2 {
+        margin-left: 1em;
+    }
+}
