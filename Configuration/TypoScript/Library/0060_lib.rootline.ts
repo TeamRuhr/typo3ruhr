@@ -43,7 +43,7 @@ lib.rootline {
 
                 10 = TEXT
                 10 {
-                    data = DB:tx_news_domain_model_news:{REGISTER:currentNewsUid}:title // DB:tx_news_domain_model_news:{REGISTER:currentNewsUid}:alternative_title
+                    data =  DB:tx_news_domain_model_news:{REGISTER:currentNewsUid}:alternative_title // DB:tx_news_domain_model_news:{REGISTER:currentNewsUid}:title
                     data.insertData = 1
 
                     stdWrap {
