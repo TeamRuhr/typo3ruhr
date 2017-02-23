@@ -1,7 +1,6 @@
 ## Haupt-Navigation
 lib.mainnav = COA
 lib.mainnav {
-
     10 = HMENU
     10 {
         wrap = <ul class="nav navbar-nav">|</ul>
@@ -46,6 +45,5 @@ lib.mainnav {
             SPC = 1
             SPC.allWrap = <li role="separator" class="divider">|</li>
         }
-
     }
 }
