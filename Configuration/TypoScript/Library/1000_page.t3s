@@ -1,7 +1,3 @@
-page = PAGE
-
-# Template
-
 page.10 = FLUIDTEMPLATE
 page.10 {
     partialRootPath = EXT:typo3ruhr/Resources/Private/Partials/

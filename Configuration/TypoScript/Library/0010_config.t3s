@@ -1,3 +1,4 @@
+page = PAGE
 page {
 	config {
 		language = de
