@@ -1,0 +1,4 @@
+ids.page.root = 1
+ids.page.navigation.meta = 11
+
+settings.config.contentObjectExceptionHandler = 0

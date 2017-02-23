@@ -7,7 +7,7 @@ lib.logo {
     altText = Logo TYPO3 Stammtisch RheinRuhr
     stdWrap {
         typolink {
-            parameter = 1
+            parameter = {$ids.page.root}
             title = Homepage TYPO3 Stammtisch RheinRuhr
             ATagParams = id="headerLogoWrap1"
         }
