@@ -1,0 +1,16 @@
+# Logo in der Menue-Leiste
+lib.logo = IMAGE
+lib.logo {
+    params = id="headerLogoItemImage"
+    file = EXT:typo3ruhr/Resources/Public/Icons/typo3-stammtisch-rheinruhr-logo.png
+    file.width = 409
+    altText = Logo TYPO3 Stammtisch RheinRuhr
+    stdWrap {
+        typolink {
+            parameter = 1
+            title = Homepage TYPO3 Stammtisch RheinRuhr
+            ATagParams = id="headerLogoWrap1"
+        }
+        wrap = <div id="headerLogoWrap2">|</div>
+    }
+}
