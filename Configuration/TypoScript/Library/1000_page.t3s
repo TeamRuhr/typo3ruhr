@@ -35,8 +35,8 @@ page.10 {
 
     ## Inhalte an die Templates übergeben
     variables {
-        jumbotron < styles.content.get
-        jumbotron.select.where = colPos = 3
+        homepageslider < styles.content.get
+        homepageslider.select.where = colPos = 3
 
         left < styles.content.get
         left.select.where = colPos = 1

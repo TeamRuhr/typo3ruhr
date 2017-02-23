@@ -13,7 +13,7 @@ mod.web_layout.BackendLayouts {
                     1 {
                         columns {
                             1 {
-                                name = Jumbotron
+                                name = Startseiten Slider
                                 colspan = 3
                                 colPos = 3
                             }
